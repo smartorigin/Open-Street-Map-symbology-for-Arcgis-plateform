@@ -14,7 +14,7 @@ If you wan't to edit the icons you can use the provided Adobe Illustrator file `
 Tricks to make a good export from this `.ai` file : 
 
   1. Keep the icon squared (width=height)
-  2. Export in 72 dpi form Adobe Illustrator
+  2. Export in 72 dpi from Adobe Illustrator
   3. Convert to 96 dpi in Adobe Photoshop
   4. When publishing set value to : `(width in px)*0.75`pt
   
