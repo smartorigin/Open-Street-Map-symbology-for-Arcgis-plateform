@@ -1,7 +1,7 @@
 # Open-Street-Map-symbology-for-Arcgis-plateform
 A repo that holds various icons to symbologize an ArcGIS service
 
-![assets/header.jpg](header/menu.png "menu screenshot")
+![assets/header.jpg](assets/header.jpg "header")
 
 In this repo you will find some icons to illustrate an ArcGIS service that holds open street map data.
 
