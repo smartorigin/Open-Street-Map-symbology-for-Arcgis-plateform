@@ -21,5 +21,6 @@ Tricks to make a good export from this `.ai` file :
 Further reading on the subject :
 * https://forums.adobe.com/thread/321621
 * http://blogs.esri.com/esri/arcgis/2014/04/17/arcgis-solutions-symbols-now-have-a-repo-on-github/
+* http://smart-origin.com/actualite#Plateforme-Arcgis (in french)
   
 Sample usage : https://services.arcgis.com/KuaABtfkgFHV6L3h/arcgis/rest/services/Cannes__OSM/FeatureServer/
